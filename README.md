@@ -28,6 +28,17 @@ Interview Prep AI is a full-stack web application that helps candidates prepare 
 | AI | Google Gemini API (`@google/genai`) |
 | File processing | Multer, pdf-parse, Puppeteer |
 
+## Application Screenshots
+### Home Dashboard
+Create personalized interview preparation plans.
+
+![Home Dashboard](screenshots/home.png)
+
+### AI-Generated Interview Report
+View technical questions, behavioral questions, and personalized preparation plans.
+
+![Interview Report](screenshots/interview-report.png)
+
 ## Architecture
 
 ```mermaid
@@ -135,14 +146,6 @@ Open **http://localhost:5173** in your browser.
 5. Review technical/behavioral questions, skill gaps, and the preparation roadmap.
 6. Open saved reports or download the AI-generated resume PDF.
 
-## Screenshots
-
-Add screenshots to `docs/screenshots/` and reference them here after uploading the image files to GitHub. For example:
-
-```markdown
-![Interview Prep AI - Home](docs/screenshots/home.png)
-![Generated Interview Report](docs/screenshots/report.png)
-```
 
 ## Notes and Current Limitations
 
