@@ -29,6 +29,11 @@ Interview Prep AI is a full-stack web application that helps candidates prepare 
 | File processing | Multer, pdf-parse, Puppeteer |
 
 ## Application Screenshots
+### Login Page
+User authentication interface.
+
+![Login Page](screenshots/login.png)
+
 ### Home Dashboard
 Create personalized interview preparation plans.
 
@@ -37,7 +42,7 @@ Create personalized interview preparation plans.
 ### AI-Generated Interview Report
 View technical questions, behavioral questions, and personalized preparation plans.
 
-![Interview Report](screenshots/interview-report.png)
+![Interview Report](screenshots/report.png)
 
 ## Architecture
 
