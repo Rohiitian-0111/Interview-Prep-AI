@@ -160,9 +160,6 @@ Add screenshots to `docs/screenshots/` and reference them here after uploading t
 - [ ] Deployment configuration and live demo
 - [ ] Automated tests
 
-## Acknowledgment
-
-This repository is based on [ankurdotio/interview-ai-yt](https://github.com/ankurdotio/interview-ai-yt). Credit goes to the original author for the source project. Review the original project's licensing and reuse permissions before redistributing or modifying it publicly.
 
 ## Repository
 
